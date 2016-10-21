@@ -1,7 +1,10 @@
 /*
+Flood Fill Algorithm.
+Implemented by Hasan Abdullah.
 To see the input/output go here: http://ideone.com/ehZ6iz
+Blog: hellohasan.com
+Facebook: facebook.com/hasan.cse91
 */
-
 #include<iostream>
 #include<cstring>
 #include<cstdio>
