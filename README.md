@@ -5,7 +5,7 @@ Enjoy! :)
 
 ### **Algorithm List:**
 
-#### Searching Algorithm:
+#### Searching Algorithms:
 - [Linear Search Algorithm] (https://github.com/hasancse91/algorithms/blob/master/Linear%20Search%20Algorithm.cpp)
 - [Binary Search Algorithm] (https://github.com/hasancse91/algorithms/blob/master/Binary%20Search%20Algorithm.cpp)
 
