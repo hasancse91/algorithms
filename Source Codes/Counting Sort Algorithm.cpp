@@ -1,3 +1,9 @@
+/*
+Counting Sort Algorithm.
+Implemented by Hasan Abdullah.
+Blog: hellohasan.com
+Facebook: facebook.com/hasan.cse91
+*/
 #include<stdio.h>
 #define arr_size 100
 #define range 10
