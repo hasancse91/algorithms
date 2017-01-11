@@ -13,6 +13,7 @@ Enjoy! :)
 - [Bubble Sort Algorithm] (https://github.com/hasancse91/algorithms/blob/master/Source%20Codes/Bubble%20Sort%20Algorithm.cpp)
 - [Counting Sort Algorithm] (https://github.com/hasancse91/algorithms/blob/master/Source%20Codes/Counting%20Sort%20Algorithm.cpp)
 - [Merge Sort Algorithm] (https://github.com/hasancse91/algorithms/blob/master/Source%20Codes/Merge%20Sort%20Algorithm.cpp)
+- [Quick Sort Algorithm] (https://github.com/hasancse91/algorithms/blob/master/Source%20Codes/Quick%20Sort%20Algorithm.cpp)
 
 #### Graph Algorithms:
 - [Flood Fill Algorithm] (https://github.com/hasancse91/algorithms/blob/master/Source%20Codes/Flood%20Fill%20Algorithm.cpp)
